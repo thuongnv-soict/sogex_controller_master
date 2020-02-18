@@ -18,7 +18,7 @@ cycler==0.10.0
 db==0.1.1
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.6
+Django==2.2.10
 entrypoints==0.3
 environs==6.0.0
 Flask==1.1.1
